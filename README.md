@@ -16,11 +16,11 @@
   <p>
       <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
       <a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white"></a>
-      <a href="#"><img alt="AdminVoyager" src="https://img.shields.io/badge/AdminVoyager-21759B&logoColor=white"></a>
-      <a href="#"><img alt="AdminLTE" src="https://img.shields.io/badge/AdminLTE-21759B&logoColor=white"></a>
-      <a href="#"><img alt="Laravel" src="https://img.shields.io/badge/Laravel-21759B&logoColor=white"></a>
-      <a href="#"><img alt="CodeIgniter" src="https://img.shields.io/badge/CodeIgniter-21759B&logoColor=white"></a>
-      <a href="#"><img alt="Jquery" src="https://img.shields.io/badge/Jquery-21759B&logoColor=white"></a>
+      <a href="#"><img alt="AdminVoyager" src="https://img.shields.io/badge/AdminVoyager-7952B3.svg?&logoColor=white"></a>
+      <a href="#"><img alt="AdminLTE" src="https://img.shields.io/badge/AdminLTE-1572B6.svg?&logoColor=white"></a>
+      <a href="#"><img alt="Laravel" src="https://img.shields.io/badge/Laravel-E34F26.svg?&logoColor=white"></a>
+      <a href="#"><img alt="CodeIgniter" src="https://img.shields.io/badge/CodeIgniter-FF0000.svg?&Color=white"></a>
+      <a href="#"><img alt="Jquery" src="https://img.shields.io/badge/Jquery-1572B6.svg?&logoColor=white"></a>
   </p>
 
   <h3>🗄️ Databases and Cloud Hosting</h3>
@@ -28,22 +28,22 @@
   <p>
       <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
       <a href="#"><img alt="NiagaHoster" src="https://img.shields.io/badge/NiagaHoster-00f.svg?logo=mysql&logoColor=white"></a>
-      <a href="#"><img alt="RumahWeb" src="https://img.shields.io/badge/RumahWeb-00f.svg?logo=mysql&logoColor=white"></a>
+      <a href="#"><img alt="RumahWeb" src="https://img.shields.io/badge/RumahWeb-21759B?&logoColor=white"></a>
   </p>
 
   <h3>💻 Software and Tools</h3>
 
   <p>
       <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white"></a>
-  <!--       <a href="#"><img alt="Discord" src="https://img.shields.io/badge/-Discord-5865F2.svg?logo=discord&logoColor=white"></a> -->
-  <!--       <a href="#"><img alt="Zoom" src="https://img.shields.io/badge/Zoom-0078d7?logoColor=white"></a> -->
+        <a href="#"><img alt="Discord" src="https://img.shields.io/badge/-Discord-5865F2.svg?logo=discord&logoColor=white"></a>
+        <a href="#"><img alt="Zoom" src="https://img.shields.io/badge/Zoom-0078d7?logoColor=white"></a>
   <!--       <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a> -->
       <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
       <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Sheets-34A853.svg?logo=google%20sheets&logoColor=white"></a>
       <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
       <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-      <a href="#"><img alt="Navicat" src="https://img.shields.io/badge/Navicat-0078d7?logoColor=white"></a>
-      <a href="#"><img alt="Xampp" src="https://img.shields.io/badge/Xampp-0078d7?logoColor=white"></a>
+      <a href="#"><img alt="Navicat" src="https://img.shields.io/badge/Navicat-F7DF1E.svg?&logoColor=black"></a>
+      <a href="#"><img alt="Xampp" src="https://img.shields.io/badge/Xampp-FF6C37?&logoColor=white"></a>
       <a href="#"><img alt="Composer" src="https://img.shields.io/badge/Composer-0078d7?logoColor=white"></a>
   </p>
 
